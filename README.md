@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @akhtar-husain
-- 👀 I’m interested in NodeJS, ReactJS, Python, Scala, Realtime Streaming.
+- 👀 I’m interested in NodeJS, ReactJS, Python, PHP, Scala, Realtime Streaming.
 - 🌱 I’m currently learning Machine Learning, Data Science.
 - 📫 Reach me at - akhtar4660@gmail.com
